@@ -1,6 +1,6 @@
 # Business Context
 
-## 🇮🇩
+## 🇮🇩 Konteks Bisnis
 
 Pertumbuhan bisnis tidak hanya ditentukan oleh peningkatan jumlah transaksi,
 tetapi juga oleh kualitas dan perilaku buyer dari waktu ke waktu.
@@ -15,7 +15,7 @@ melalui analisis buyer cohort berbasis waktu pembelian pertama.
 
 ---
 
-## 🇬🇧
+## 🇬🇧 Business Context
 
 Business growth is not only driven by increasing transaction volume,
 but also by the quality and behavior of buyers over time.
