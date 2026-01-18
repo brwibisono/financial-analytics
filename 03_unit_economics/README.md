@@ -110,6 +110,7 @@ to maintain focus on SQL-based analytics and business logic.
 ## 📁 Project Structure
 
 ```
+├── 02_data/ 
 ├── 02_sql/        
 ├── 04_dashboard/
 ├── 05_outputs/      
