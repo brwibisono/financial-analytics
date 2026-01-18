@@ -115,6 +115,20 @@ to demonstrate practical financial and business analytics skills.
 
 ---
 
+## 📌 Outputs | Hasil Akhir
+
+### 🇮🇩
+- Tabel cohort retention dan revenue retention
+- Insight mengenai kualitas buyer dan keberlanjutan growth
+- Decision memo untuk mendukung strategi retention dan monetisasi
+
+### 🇬🇧
+- Cohort retention and revenue retention tables
+- Insights on buyer quality and growth sustainability
+- Decision memo to support retention and monetization strategies
+
+---
+
 ## 📬 Contact
 
 For questions, feedback, or collaboration opportunities,  
